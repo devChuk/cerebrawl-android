@@ -11,6 +11,6 @@ Instructions:
 
 Open TestLibMuseAndroid app with Android Studio (you do this by File>Import Project and then clicking on the Manifest file)
 
-Plug in phonea and run the app!
+Plug in phone and run the app!
 
 The pause/resume button actually sends data to the Syncano server while the Reset button resets the "brain score"
